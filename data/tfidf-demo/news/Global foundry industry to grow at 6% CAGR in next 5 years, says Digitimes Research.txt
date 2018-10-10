@@ -1,0 +1,7 @@
+The production value of the global foundry industry is expected to grow by a CAGR of 6.2% to reach US$81.94 billion in 2023, the final year of a five-year forecast period, driven by chip demand for mobile devices, automotive, IoT and high-performance computing applications in the AI and upcoming 5G era, according to Digitimes Research.
+
+Industry leader TSMC began to make chips using 7nm FinFET process technology in the first half of 2018, and started generating revenues from the node process in the thrid quarter. TSMC will see sales generated from 7nm FinFET process technology account for over 10% of company revenues in all of 2018, Digitimes Research estimated.
+
+TSMC is expected to enter volume production of chips using its second-generation 7nm FinFET technology utilizing EUV in the first quarter of 2019, Digitimes Research said. Rival Samsung Electronics will also have its 7nm node with EUV get ready for volume production in the first quarter of 2019, Digitimes Research indicated.
+
+In addition, TSMC and other major pure-play foundries will continue expanding fab capacities through 2023, when the top-4 vendors will see their combined capacities reach 67,078,000 8-inch equivalent wafers annually representing a CAGR of 6.8% in the five-year forecast period, Digitimes Research said.
